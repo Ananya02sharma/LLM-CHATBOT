@@ -1,0 +1,8 @@
+###### Requirements to be installed ######
+## pip install -r requirements.txt
+requests
+bs4
+sentence_transformers
+faiss-cpu
+numpy
+groq
